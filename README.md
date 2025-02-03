@@ -6,5 +6,4 @@ Hemorrhagic stroke- due to a weak blood vessel to blood and leaking into the bra
 strokes are fatal and can cause extensive damage. As this is a very serious and life-threatening medical 
 condition, by any means if it can be detected it could be a matter of life and death. Machine learning 
 models to detect these types of serious condition could have a great impact in the medical industry along 
-with people’s lives. This research study proposes a brain stroke detection model using machine learning 
-algorithms to derive some insightful information.
+with people’s lives. This is a brain stroke detection project using 3 machine learning algorithms.
